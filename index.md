@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Bonjour Medames et Monsieur
 ---
